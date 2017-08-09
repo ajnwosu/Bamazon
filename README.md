@@ -48,4 +48,4 @@ Once the update goes through, show the customer the total cost of their purchase
 
 
 
-Screen Shot 2017-08-09 at 4.56.13 PM
+![Alt text](/../images/screen.png?raw=true "Screen Shot")
