@@ -48,4 +48,4 @@ Once the update goes through, show the customer the total cost of their purchase
 
 
 
-![Alt text](/../images/screen.png?raw=true "Screen Shot")
+![Alt text](/../images/path/to/screen.png?raw=true "Screen Shot")
